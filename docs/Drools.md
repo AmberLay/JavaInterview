@@ -2,11 +2,6 @@
 
 规则引擎
 
-Maven仓库：
-
-Drools：https://mvnrepository.com/artifact/org.kie/kie-spring  
-
-SpringBoot： https://mvnrepository.com/artifact/org.springframework.boot/spring-boot
 
 
 ## 1. 规则引擎概述
